@@ -1,6 +1,6 @@
 ![header](img/HEADER.png)
 
-#Welcome to my profile 😎!
+# Welcome to my profile 😎! <br>
 
 I'm Michael Cardona, a 30-year old Colombian who likes Raspberry Pi, Arduino and microcontrollers
 
