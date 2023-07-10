@@ -1,12 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20there%20%F0%9F%91%8B&fontSize=90)
+![header](img/HEADER.png)
 # Welcome to my profile 😎!
-I'm Quân (aka qtpctechhxd/QuanTrieuPCYT), a 16-year old Vietnamese who likes tinkering with tech things.
-I'm Quân (aka qtpctechhxd/QuanTrieuPCYT), a 16-year old Vietnamese.
+I'm Michael Cardona, a 30-year old Colombian who likes Raspberry Pi, Arduino and microcontrollers
 
-I'm a tech nerd who has the aim of acquiring acknowledgements in the tech field of life
+I'm a tech nerd who has really passion for the mechatronic industries and their aplications
 ***
 ## Some infos about me:
-* 🎮⠀I play Minecraft and do tech stuff. My MC ign is [**QuanTrieuPCYT**](https://namemc.com/QuanTrieuPCYT) (Java and Bedrock)
+* ⠀I 
 * 🕹⠀I'm the owner of a small Minecraft network - [**ThiccMC**](https://qtpc.tech/discord)
 * 📍⠀I live in Hanoi, Vietnam
 * 🏫⠀I'm currently a 11th grade student at [**HES High School**](https://www.facebook.com/HESHighSchool)
