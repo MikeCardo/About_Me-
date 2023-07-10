@@ -18,4 +18,4 @@ I'm a tech nerd who has really passion for the mechatronic industries and their 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanTrieuPCYT&theme=tokyonight&layout=compact&hide_border=true)](https://qtpc.tech)
 ***
 ## Links:
-[![LinkeIn](www.linkedin.com/in/michael-santiago-cardona-cardona-a16482117)<br>
+[![LinkedIn](www.linkedin.com/in/michael-santiago-cardona-cardona-a16482117) 
