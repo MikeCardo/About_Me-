@@ -6,10 +6,10 @@ I'm a tech nerd who has really passion for the mechatronic industries and their 
 ***
 ## Some infos about me:
 * 🖥 I'm programming in python, C and C++ like fundamental key to control RPi, Arduino and Microcontroller PIC⠀I 
-* 🕹⠀My passion is programming and IoT, actually I have 6 RPi and my main hobbiest are arround them
+* 🕹⠀My passion is programming and IoT, actually I have 6 RPi and my main hobbiest are about those
 * 📍⠀I live in Medellin, Colombia
 * 🏫⠀I'm an aircraft mechanic too, airplanes/helicopters
-* ⠀I'm currently using RPi 2, my money capacity is short
+* 🖥⠀I'm currently using RPi 3-2, maybe a day I have a RPi4 in the future
 * 🌐⠀I'm a drone pilot certified
 * 📧⠀Email: **santicardonac@gmail.com**<br> **michaelcardonac@hotmail.com**<br>
 ***
