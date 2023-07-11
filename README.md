@@ -42,13 +42,13 @@ if __name__ == '__main__':
 ## 📖 Some infos about me 🔥:
 
 <p> I'm passionate for robotics, mechatronic, IoT, OpenSource <br>
-I'm a tech nerd who has really fall in love for the mechatronic industries and their aplications</p>
+I'm a tech nerd who has fallen in love for the mechatronic industries and their aplications</p>
 
 --- 
 
 ### 🧰 HARDWARE 
 <p align="left">
-🔥 I develop <img src = "https://img.shields.io/badge/-Raspberry Pi-E30B5D?style=flat&logo=Raspberry Pi&logoColor=white"> projects like a Hobbie <img src="img/RPi_Logo.png" width="30"><br>
+🔥 I develop <img src = "https://img.shields.io/badge/-Raspberry Pi-E30B5D?style=flat&logo=Raspberry Pi&logoColor=white"> projects like a Hobby <img src="img/RPi_Logo.png" width="30"><br>
 🔥 I use <img src = "https://img.shields.io/badge/-Arduino-3186a0?style=flat&logo=Arduino&logoColor=white"> like a slave of RPi, eventually leave the RPi to proccessing <img src="img/Arduino_Logo.png" width="30"><br>
 💔 My poor setup 😳 is composed only by my NoteBook <img src = "https://img.shields.io/badge/-ASUS-E34F26?style=flat&logo=ASUS&logoColor=white">:<br>
     * X455LJ (ASUS-NotebookSKU)<br>
