@@ -3,6 +3,8 @@
 
 ![header](img/HEADER.png)
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+
 I'm Michael Cardona, a 30-year old Colombian who likes Raspberry Pi, Arduino and microcontrollers
 
 I'm a tech nerd who has really passion for the mechatronic industries and their aplications
