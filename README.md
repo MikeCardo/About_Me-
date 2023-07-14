@@ -20,8 +20,8 @@ class MikeCardo:
         self.LinkedIn = 'linkedin.com/in/mikecardo'
         self.location = 'Medellin (Colombia)'
         self.devices = {
-            'PC': { 'ASUS': 'Linux/Ubuntu'},
-            'Processsor': { 'RaspberryPi': 'Python'},
+            'PC': {'ASUS': 'Linux/Ubuntu'},
+            'Processsor': {'RaspberryPi': 'Python'},
             'Control': {'Arduino': 'C', 'PIC': 'C++'},
             'Actuators': {'Electronic\&Electric': ['ServoMotors', 'Motor-Steppers', 'Relays', 'etc...']}
         }
